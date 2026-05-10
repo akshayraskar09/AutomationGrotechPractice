@@ -1,6 +1,6 @@
 var sum = 11
 if (sum%2 == 0) {
-console.log("Person1 This is Even number")
+console.log("Person1, Person2: This is Even number")
 } else {
-console.log("Person1 This is Odd number")
+console.log("Person1, Person2: This is Odd number")
 }
